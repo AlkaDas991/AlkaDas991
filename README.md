@@ -1,15 +1,25 @@
-
 <a href="url"><img src="https://github.com/AlkaDas991/AlkaDas991/blob/main/images/Header.png" align="center" height="700" width="800" ></a>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlkaDas991&show_icons=true&theme=radical)
-](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://visitor-badge.laobi.icu/badge?page_id=AlkaDas991.AlkaDas991)
+[![Github](https://img.shields.io/github/followers/AlkaDas991?label=Followers&style=social)](https://github.com/AlkaDas991)
+
+# 👧🏻 About me
+## Hi there 👋 I am *Alka*, but you can call me *Rhythm* 😄
+- 🎓 I am a B-Tech Computer Science Student at IIIT-Bhubaneswar, Odisha.
 - 🔭 I’m currently working on my Problem Solving Skills.
 - 🌱 I’m currently learning more about Javascript and React.
 - 👯 I’m looking to collaborate on any Web Dev Projects and Pair Programming.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: You like chai-biscuit, I like Paani-biscuit.
 
+# 🏆 My Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlkaDas991&show_icons=true&theme=radical)
+](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+# ✉️ Find me on:
 <div align = "center">
   <a href="https://www.linkedin.com/in/alka-das/"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
