@@ -10,6 +10,21 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: You like chai-biscuit, I like Paani-biscuit.
 
+<div align = "center">
+  <a href="https://www.linkedin.com/in/alka-das/"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/rhythm_bonny"> 
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:alkadassai@gmail.com"> 
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/alkadassai/"> 
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+</div>
+                                               
 <!--
 **AlkaDas991/AlkaDas991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
