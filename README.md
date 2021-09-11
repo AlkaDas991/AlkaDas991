@@ -5,7 +5,7 @@
 
 # 👧🏻 About me
 ## Hi there 👋 I am *Alka*, but you can call me *Rhythm* 😄
-- 🎓 I am a B-Tech Computer Science Student at IIIT-Bhubaneswar, Odisha.
+- 🎓 I am a 3rd year B-Tech Computer Science Student at IIIT-Bhubaneswar, Odisha.
 - 🔭 I’m currently working on my Problem Solving Skills.
 - 🌱 I’m currently learning more about Javascript and React.
 - 👯 I’m looking to collaborate on any Web Dev Projects and Pair Programming.
