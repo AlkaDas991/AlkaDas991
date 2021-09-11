@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src=”images/Header.png” alt=”Sorry for the delay!!”/>
+![Header](images/Header.png)
 <!--
 **AlkaDas991/AlkaDas991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
