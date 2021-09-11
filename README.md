@@ -1,5 +1,10 @@
 ### Hi there 👋
 ![Header](images/Header.png)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlkaDas991&show_icons=true)
+](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **AlkaDas991/AlkaDas991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
