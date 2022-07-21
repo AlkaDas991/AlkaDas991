@@ -4,13 +4,12 @@
 [![Github](https://img.shields.io/github/followers/AlkaDas991?label=Followers&style=social)](https://github.com/AlkaDas991)
 
 # 👧🏻 About me
-## Hi there 👋 I am *Alka*, but you can call me *Rhythm* 😄
-- 🎓 I am a 3rd year B-Tech Computer Science Student at IIIT-Bhubaneswar, Odisha.
+## Hi there 👋 I am *Alka*.
+- 🎓 I am currently pursuing B-Tech in Computer Science Stream at IIIT-Bhubaneswar, Odisha.
 - 🔭 I’m currently working on my Problem Solving Skills.
 - 🌱 I’m currently learning more about Javascript and React.
 - 👯 I’m looking to collaborate on any Web Dev Projects and Pair Programming.
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: You like chai-biscuit, I like Paani-biscuit.
 
 # 🏆 My Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlkaDas991&show_icons=true&theme=radical)
